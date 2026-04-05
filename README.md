@@ -1,4 +1,4 @@
-# lecture-brain
+# class-brain
 
 A Claude Code skill that turns your course materials into a curriculum-aware teaching knowledge base. Concepts, prerequisites, explanation variants, misconceptions, and semester evidence — all in one place, queryable in your voice.
 
